@@ -1,1 +1,1 @@
-# JS-Style-Guid
+# JavaScript Style Guide, о том, как красиво и правильно писать на JavaScript.
